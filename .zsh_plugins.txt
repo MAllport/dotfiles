@@ -1,0 +1,6 @@
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
+robbyrussell/oh-my-zsh path:plugins/zsh_reload
+tarrasch/zsh-mcd
+robbyrussell/oh-my-zsh path:plugins/command-not-found
+zsh-users/zsh-autosuggestions
